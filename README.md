@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YushinKim%20FE-Engineer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=FE Enginner&fontSize=90&textBg=true)
 <!--
 **kysclient/kysclient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
