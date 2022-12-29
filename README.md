@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=FE Enginner&fontSize=90&textBg=true)
 <!--
 **kysclient/kysclient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
